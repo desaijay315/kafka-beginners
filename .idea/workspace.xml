@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5272e732-2049-48ff-a72e-b882a593def4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-basics/src/main/java/org/kafka/ConsumerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-basics/src/main/java/org/kafka/ConsumerDemoWithCooperativeStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-basics/src/main/java/org/kafka/ProducerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-basics/src/main/java/org/kafka/ProducerDemoKeys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-basics/src/main/java/org/kafka/ProducerDemoWithCallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-producer-wikimedia/src/main/java/org/kafka/wikimedia/WikimediaChangeHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-producer-wikimedia/src/main/java/org/kafka/wikimedia/WikimediaChangesProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/kafka/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="kafka-demo" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2fLhvL36hbOtKf6U4ARtbnmOSwY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "17",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "C:/Users/desai/Desktop/projects/kafka/kafka-demo/kafka-consumer-opensearch/src/main/java/org/kafka/Main.java",
+    "settings.build.tools.auto.reload": "ALL",
+    "settings.editor.selected.configurable": "com.github.copilot.settings.ApplicationConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.WikimediaChangesProducer">
+    <configuration name="ConsumerDemoWithCooperativeStrategy" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.kafka.ConsumerDemoWithCooperativeStrategy" />
+      <module name="kafka-demo.kafka-basics.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.kafka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerDemoWithShutdown" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.kafka.ConsumerDemoWithShutdown" />
+      <module name="kafka-demo.kafka-basics.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.kafka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProducerDemoKeys" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.kafka.ProducerDemoKeys" />
+      <module name="kafka-demo.kafka-basics.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.kafka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProducerDemoWithCallback" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.kafka.ProducerDemoWithCallback" />
+      <module name="kafka-demo.kafka-basics.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.kafka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WikimediaChangesProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.kafka.wikimedia.WikimediaChangesProducer" />
+      <module name="kafka-demo.kafka-producer-wikimedia.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.kafka.wikimedia.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.WikimediaChangesProducer" />
+      <item itemvalue="Application.ConsumerDemoWithCooperativeStrategy" />
+      <item itemvalue="Application.ConsumerDemoWithShutdown" />
+      <item itemvalue="Application.ProducerDemoKeys" />
+      <item itemvalue="Application.ProducerDemoWithCallback" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WikimediaChangesProducer" />
+        <item itemvalue="Application.ConsumerDemoWithCooperativeStrategy" />
+        <item itemvalue="Application.ConsumerDemoWithShutdown" />
+        <item itemvalue="Application.ProducerDemoWithCallback" />
+        <item itemvalue="Application.ProducerDemoKeys" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5272e732-2049-48ff-a72e-b882a593def4" name="Changes" comment="" />
+      <created>1713586496355</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713586496355</updated>
+      <workItem from="1713586497475" duration="7328000" />
+      <workItem from="1713724945347" duration="3571000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/kafka/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/kafka-basics/src/main/java/org/kafka/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/kafka-producer-wikimedia/src/main/java/org/kafka/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/kafka-consumer-opensearch/src/main/java/org/kafka/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
